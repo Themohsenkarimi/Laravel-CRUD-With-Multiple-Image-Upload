@@ -11,6 +11,6 @@
 
 - clone project
 - rename .env.example to .env
-- run php artisan generate:key
 - composer update
+- run php artisan key:generate
 - config your own database
