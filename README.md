@@ -9,8 +9,8 @@
 
 ## Requirements
 
-- clone project.
-- rename .env.example to .env.
-- run php artisan generate:key.
-- composer update.
-- config your own database.
+- clone project
+- rename .env.example to .env
+- run php artisan generate:key
+- composer update
+- config your own database
