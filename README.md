@@ -11,6 +11,15 @@
 </p>
 
 
+<p align="center">
+    <a href="#" target="_blank">
+    <img src="https://raw.githubusercontent.com/mohsenkarimi-mk/Laravel-CRUD-With-Multiple-Image-Upload/master/public/poster2.png" width="1000">
+    </a>
+</p>
+
+
+
+
 
 
 <p align="center">
